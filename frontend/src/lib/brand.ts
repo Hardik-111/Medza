@@ -11,7 +11,7 @@ export const BRAND = {
 const rawSiteUrl = import.meta.env.VITE_SITE_URL as string | undefined;
 
 export const SITE = {
-  url: (rawSiteUrl || "https://drjsp.in").replace(/\/$/, ""),
+  url: (rawSiteUrl || "https://drjsp.vercel.app").replace(/\/$/, ""),
   ogImage: "/og-doctor.png",
   phone: "+917905152928",
   phoneDisplay: "+91 7905152928",

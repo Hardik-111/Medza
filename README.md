@@ -45,7 +45,7 @@ Doctor photo: `frontend/src/assets/doctor-new.png` (also copied to `frontend/pub
    VITE_SITE_URL=https://YOUR-DOMAIN
    ```
 
-2. Replace `https://drjsp.in` in these files if your domain is different:
+2. Replace `https://drjsp.vercel.app` in these files if your domain is different:
 
    - `frontend/index.html` (canonical, Open Graph, JSON-LD)
    - `frontend/public/sitemap.xml`

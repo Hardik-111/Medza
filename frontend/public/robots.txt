@@ -18,4 +18,4 @@ Disallow: /dashboard
 Disallow: /profile
 Disallow: /call-history
 
-Sitemap: https://drjsp.in/sitemap.xml
+Sitemap: https://drjsp.vercel.app/sitemap.xml
